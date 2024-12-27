@@ -1,90 +1,32 @@
-Type;Status;Part number;Max current;Supply voltage;Supply current;Ambient temperature;Output type;Factory sensitivity;Programmable sensitivity;OCD;Package;Bandwidth;Voltage isolation;AEC-Q100;ASIL;Product page
-CONVENTIONAL HALL;Production;MLX91211LUA-ABA-500;2000;5;5;-40 to 150;Analog Ratiometric;18.8;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABA-510;2000;5;5;-40 to 150;Analog Ratiometric;25;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABA-520;2000;5;5;-40 to 150;Analog Ratiometric;31.25;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABA-530;2000;5;5;-40 to 150;Analog Ratiometric;50;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABA-540;2000;5;5;-40 to 150;Analog Ratiometric;100;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABT-500;2000;5;5;-40 to 150;Analog Ratiometric;18.8;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABT-510;2000;5;5;-40 to 150;Analog Ratiometric;25;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABT-520;2000;5;5;-40 to 150;Analog Ratiometric;31.25;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABT-530;2000;5;5;-40 to 150;Analog Ratiometric;50;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LUA-ABT-540;2000;5;5;-40 to 150;Analog Ratiometric;100;N/A;No;TO92-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LSE-ABA-510;2000;5;5;-40 to 150;Analog Ratiometric;18.8;N/A;No;TSOT-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-CONVENTIONAL HALL;Production;MLX91211LSE-ABA-310;2000;3.3;5;-40 to 150;Analog Ratiometric;17;N/A;No;TSOT-3L;40;Design dependent;Grade 0;QM;https://melexis.com/MLX91211
-IMC-HALL®;Production;MLX91208LDC-CAL-000;2000;5;12;-40 to 150;Analog Ratiometric;250;100 - 700;No;SOIC-8;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91208
-IMC-HALL®;Production;MLX91208LDC-CAH-000;2000;5;12;-40 to 150;Analog Ratiometric;100;50 - 350;No;SOIC-8;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91208
-IMC-HALL®;Production;MLX91208LDC-CAV-000;2000;5;12;-40 to 150;Analog Ratiometric;40;30 - 200;No;SOIC-8;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91208
-IMC-HALL®;Production;MLX91208LDC-CAV-001;2000;5;12;-40 to 150;Analog Ratiometric;60;30 - 200;No;SOIC-8;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91208
-CONVENTIONAL HALL;Production;MLX91209LVA-CAA-000;2000;5;12;-40 to 150;Analog Ratiometric;50;5 - 150;No;SIP4-VA;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91209
-CONVENTIONAL HALL;Production;MLX91209LVA-CAA-001;2000;5;12;-40 to 150;Analog Ratiometric;15;5 - 150;No;SIP4-VA;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91209
-CONVENTIONAL HALL;Production;MLX91209LVA-CAA-002;2000;5;12;-40 to 150;Analog Ratiometric;7.3;5 - 150;No;SIP4-VA;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91209
-CONVENTIONAL HALL;Production;MLX91209LVA-CAA-003;2000;5;12;-40 to 150;Analog Ratiometric;19;5 - 150;No;SIP4-VA;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91209
-CONVENTIONAL HALL;Production;MLX91209LVA-CAA-005;2000;5;12;-40 to 150;Analog Ratiometric;8.78;5 - 150;No;SIP4-VA;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91209
-CONVENTIONAL HALL;Production;MLX91209LVA-CAA-006;2000;5;12;-40 to 150;Analog Ratiometric;6.9;5 - 150;No;SIP4-VA;250;Design dependent;Grade 0;QM;https://melexis.com/MLX91209
-IMC-HALL®;Production;MLX91216LDC-ACH-000;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;100;50 - 350;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-IMC-HALL®;Production;MLX91216LDC-ACV-000;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;40;30 - 200;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-IMC-HALL®;Production;MLX91216LDC-ACV-001;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;60;30 - 200;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-IMC-HALL®;Production;MLX91216LDC-ACV-002;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;30;30 - 200;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-IMC-HALL®;Production;MLX91216LDC-ACX-000;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;25;20 - 125;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-IMC-HALL®;Production;MLX91216LDC-ACX-001;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;30;20 - 125;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-IMC-HALL®;Production;MLX91216LDC-ACX-002;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;20;20 - 125;No;SOIC-8;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91216
-CONVENTIONAL HALL;Production;MLX91217LVA-ACA-000;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;10;5 - 150;No;SIP4-VA;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACA-001;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;15;5 - 150;No;SIP4-VA;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACA-002;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;17;5 - 150;No;SIP4-VA;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACA-003;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;9;5 - 150;No;SIP4-VA;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACA-005;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;13;5 - 150;No;SIP4-VA;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACA-006;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;29;5 - 150;No;SIP4-VA;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACJ-008;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;13;5 - 150;No;SIP4-VA - THT 2.54;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-CONVENTIONAL HALL;Production;MLX91217LVA-ACZ-008;2000;5;10 | 12.5;-40 to 150;Analog Ratiometric;13;5 - 150;No;SIP4-VA - SMD TFT4K1;250 (prog);Design dependent;Grade 0;QM;https://melexis.com/MLX91217
-IMC-HALL®;Production;MLX91218LDC-ARV-500;2000;5;15;-40 to 150;Analog Ratiometric;40;33.5 - 71;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-ARV-300;2000;3.3;15;-40 to 150;Analog Ratiometric;25;22 - 35;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-ARV-301;2000;3.3;15;-40 to 150;Analog Ratiometric;35;22 - 35;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-ARV-303;2000;3.3;15;-40 to 150;Analog Ratiometric;30;22 - 35;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-AFV-204;2000;3.3;15;-40 to 150;Analog Ratiometric;80;47.5 - 165;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-ARX-501;2000;5;15;-40 to 150;Analog Ratiometric;30;30 - 165;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-ARX-300;2000;3.3;15;-40 to 150;Analog Ratiometric;14;18 - 125;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-IMC-HALL®;Production;MLX91218LDC-ARX-301;2000;3.3;15;-40 to 150;Analog Ratiometric;19;18 - 125;Yes;SOIC-8;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91218
-CONVENTIONAL HALL;Production;MLX91219LVA-AAA-500;2000;5;15.5;-40 to 150;Analog Ratiometric;7;6.5 - 22.5;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219
-CONVENTIONAL HALL;Production;MLX91219LVA-AAA-501;2000;5;15.5;-40 to 150;Analog Ratiometric;10;6.5 - 22.5;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219
-CONVENTIONAL HALL;Production;MLX91219LVA-ARA-501;2000;5;15.5;-40 to 150;Analog Ratiometric;10;6.5 - 22.5;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219
-CONVENTIONAL HALL;Production;MLX91219LVA-AAA-502;2000;5;15.5;-40 to 150;Analog Ratiometric;15;6.5 - 22.5;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219
-CONVENTIONAL HALL;Production;MLX91219LVA-AAA-503;2000;5;15.5;-40 to 150;Analog Ratiometric;25;16 - 55;Yes;SIP4-VA;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219
-CONVENTIONAL HALL;Production;MLX91219LVA-AAT-505;2000;5;15.5;-40 to 150;Analog Ratiometric;10;6.5 - 22.5;Yes;SIP4-VA - STD4;400;Design dependent;Grade 0;QM;https://melexis.com/MLX91219
-INTEGRATED;Production;MLX91220KDC-ABF-025 RE;25;5;20;-40 to 125;Analog Fixed;80;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDC-ABF-050 RE;50;5;20;-40 to 125;Analog Fixed;40;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDC-ABR-020 RE;20;5;20;-40 to 125;Analog Ratiometric;100;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDC-ABR-025 RE;25;5;20;-40 to 125;Analog Ratiometric;80;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDC-ABR-030 RE;30;5;20;-40 to 125;Analog Ratiometric;66;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDC-ABR-050 RE;50;5;20;-40 to 125;Analog Ratiometric;40;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABF-117 RE;17;5;20;-40 to 125;Analog Fixed;120;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABF-025 RE;25;5;20;-40 to 125;Analog Fixed;80;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABF-050 RE;50;5;20;-40 to 125;Analog Fixed;70;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABF-075 RE;75;5;20;-40 to 125;Analog Fixed;26.67;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABR-025 RE;25;5;20;-40 to 125;Analog Ratiometric;80;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABR-050 RE;50;5;20;-40 to 125;Analog Ratiometric;40;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABR-075 RE;75;5;20;-40 to 125;Analog Ratiometric;26.7;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABR-025 RE;25;5;20;-40 to 125;Analog Ratiometric;80;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91220KDF-ABR-050 RE;50;5;20;-40 to 125;Analog Ratiometric;40;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91220
-INTEGRATED;Production;MLX91221KDF-ABR-020 RE;20;3.3;20;-40 to 125;Analog Ratiometric;62.5;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDC-ABF-025 RE;25;3.3;20;-40 to 125;Analog Fixed;50;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDC-ABR-038 RE;38;3.3;20;-40 to 125;Analog Ratiometric;33.3;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDC-ABF-050 RE;50;3.3;20;-40 to 125;Analog Fixed;25;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDC-ABR-050 RE;50;3.3;20;-40 to 125;Analog Ratiometric;25;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABF-010 RE;10;3.3;20;-40 to 125;Analog Fixed;120;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABF-020 RE;20;3.3;20;-40 to 125;Analog Fixed;62.5;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDC-ABR-020 RE;20;3.3;20;-40 to 125;Analog Ratiometric;62.5;N/A;No;SOIC-8;300;3.55;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABF-120 RE;120;3.3;20;-40 to 125;Analog Fixed;62.5;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABF-025 RE;25;3.3;20;-40 to 125;Analog Fixed;50;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABR-050 RE;50;3.3;20;-40 to 125;Analog Ratiometric;25;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABF-050 RE;50;3.3;20;-40 to 125;Analog Fixed;25;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-INTEGRATED;Production;MLX91221KDF-ABF-075 RE;75;3.3;20;-40 to 125;Analog Fixed;16.67;N/A;Yes;SOIC-16WB;300;5.4;Grade 0;QM;https://melexis.com/MLX91221
-IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;B (D) ;https://melexis.com/MLX91230
-IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBA-100-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;B (D) ;https://melexis.com/MLX91230
-IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBC-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;C (D) ;https://melexis.com/MLX91230
-IVT - CONVENTIONAL HALL;Production;MLX91230KDC-BBC-100-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (512mT range);Yes;Yes;SOIC-8;2;Design dependent;Grade 1;C (D) ;https://melexis.com/MLX91230
-IVT - SHUNT;Production;MLX91231KDC-BBA-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (256mV range);Yes;Yes;SOIC-8;2;N/A;Grade 1;B (D) ;https://melexis.com/MLX91231
-IVT - SHUNT;Production;MLX91231KDC-BBC-000-RE;2000;4.5 - 18;20;-40 to 125;LIN/UART/PWM (OCD);AGC (256mV range);Yes;Yes;SOIC-8;2;N/A;Grade 1;C (D) ;https://melexis.com/MLX91231
-CORELESS EXTERNAL PRIMARY;Development;MLX91235HDC-BAA-500-RE;10000;5;20;-40 to 125;Analog Ratiometric;200;Yes;Yes;SOIC-8;2;Design dependent;Grade 0;B;https://melexis.com/MLX91235
-CORELESS EXTERNAL PRIMARY;Development;MLX91235HDC-BAA-300-RE;10000;3.3;20;-40 to 125;Analog Ratiometric;132;Yes;Yes;SOIC-8;2;Design dependent;Grade 0;B;https://melexis.com/MLX91235
-CORELESS EXTERNAL PRIMARY;Development;MLX91235HDD-BAA-500-RE;10000;5;20;-40 to 125;Analog Ratiometric;200;Yes;Yes;SOIC-8;2;Design dependent;Grade 0;B;https://melexis.com/MLX91235
-CORELESS EXTERNAL PRIMARY;Development;MLX91235HDD-BAA-300-RE;10000;3.3;20;-40 to 125;Analog Ratiometric;132;Yes;Yes;SOIC-8;2;Design dependent;Grade 0;B;https://melexis.com/MLX91235
+Type;Status;Part Number;Ambient temperature;Object 
+temperature;Specific feature;Accuracy;Supply Voltage;Supply Current;Sleep Current;Package;Package dimensions;Field of View;Output
+Infrared single point;production;MLX90614KSF-AAA-000;-40 to 125;-70 to 380;;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared dual points;production;MLX90614KSF-ABA-000;-40 to 125;-70 to 380;;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;120;SMBus|PWM
+Infrared single point;production;MLX90614KSF-ACC-000;-40 to 125;-70 to 380;Gradient compensated;standard;4.5 to 5.5;<2;<6;TO-39;10.2 x 8,1;35;SMBus|PWM
+Infrared single point aaaa;production;MLX90614ESF-AAA-000;-40 to 85;-70 to 380;;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared dual points;production;MLX90614ESF-ABA-000;-40 to 85;-70 to 380;;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared single point;production;MLX90614ESF-ACA-000;-40 to 85;-70 to 380;Gradient compensated;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BAA-000;-40 to 85;-70 to 380;;standard;2.6 to 3.6;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared dual points;production;MLX90614ESF-BBA-000;-40 to 85;-70 to 380;;standard;2.6 to 3.6;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BCA-000;-40 to 85;-70 to 380;Gradient compensated;standard;2.6 to 3.6;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared single point;production;MLX90614ESF-ACC-000;-40 to 85;-70 to 380;Gradient compensated;standard;4.5 to 5.5;<2;<6;TO-39;10.2 x 8.1;35;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BCC-000;-40 to 85;-70 to 380;Gradient compensated;standard;2.6 to 3.6;<2;<6;TO-39;10.2 x 8.1;35;SMBus|PWM
+Infrared single point;production;MLX90614ESF-ACF-000;-40 to 85;-70 to 380;Gradient compensated;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 17.2;10;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BCF-000;-40 to 85;-70 to 380;Gradient compensated;standard;2.6 to 3.6;<2;<6;TO-39;9.1 x 17.2;10;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BCH-000;-40 to 85;-70 to 380;Gradient compensated;standard;2.6 to 3.6;<2;<6;TO-39;9.1 x 8.3;12;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BCI-000;-40 to 85;-70 to 380;Gradient compensated;standard;2.6 to 3.6;<2;<6;TO-39;9.1 x 20.2;5;SMBus|PWM
+Infrared single point;production;MLX90614ESF-ACK-000;-40 to 85;-70 to 380;Gradient compensated;±1 to ±4॰C, see datasheet;4.5 to 5.5;<2;<6;TO-39;10.2 x 8.1;15;SMBus|PWM
+Infrared single point;production;MLX90614ESF-BCK-000;-40 to 85;-70 to 380;Gradient compensated;±1 to ±4॰C, see datasheet;2.6 to 3.6;<2;<6;TO-39;10.2 x 8.1;15;SMBus|PWM
+Infrared single point;production;MLX90632SLD-BCB-000;-20 to 85;-20 to 200;Gradient compensated;±1 to ±4॰C, see datasheet;3.0 to 3.6;<1.4;<2.5;QFN;3 x 3 x 1;50;I2C
+Infrared single point;production;MLX90614ESF-DAA-000;-40 to 85;-70 to 380;;medical;2.6 to 3.6;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared single point;production;MLX90614ESF-DCA-000;-40 to 85;-70 to 380;Gradient compensated;medical;2.6 to 3.6;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM
+Infrared single point;production;MLX90614ESF-DCC-000;-40 to 85;-70 to 380;Gradient compensated;medical;2.6 to 3.6;<2;<6;TO-39;10.2 x 8.1;35;SMBus|PWM
+Infrared single point;production;MLX90614ESF-DCH-000;-40 to 85;-70 to 380;Gradient compensated;medical;2.6 to 3.6;<2;<6;TO-39;9.1 x 8.3;12;SMBus|PWM
+Infrared single point;production;MLX90614ESF-DCI-000;-40 to 85;-70 to 380;Gradient compensated;medical;2.6 to 3.6;<2;<6;TO-39;9.1 x 20.2;5;SMBus|PWM
+Infrared single point;production;MLX90632SLD-DCB-000;-20 to 85;-20 to 100;Gradient compensated;medical;3.0 to 3.6;<1.4;<2.5;QFN;3 x 3 x 1;50;I2C
+Sensor array, 32 x 24;production;MLX90640ESF-BAA-000;-40 to 85;-40 to 300;;see datasheet;2.9 to 3.6;<25;-;TO-39;9.3 x 5.7;110 x 75;I2C
+Sensor array, 32 x 24;production;MLX90640ESF-BAB-000;-40 to 85;-40 to 300;;see datasheet;2.9 to 3.6;<25;-;TO-39;9.3 x 11.25;55 x 35;I2C
+Sensor array, 16 x 12;production;MLX90641ESF-BCA-000;-40 to 85;-40 to 300;;see datasheet;3.0 to 3.6;<14;-;TO-39;9.3 x 5.7;110 x 75;I2C
+Sensor array, 16 x 12;production;MLX90641ESF-BCB-000;-40 to 85;-40 to 300;;see datasheet;3.0 to 3.6;<14;-;TO-39;9.3 x 11.25;55 x 35;I2C
+Sensor array, 16 x 12;production;MLX90641KSF-BCA-000;-40 to 125;-40 to 300;;see datasheet;3.0 to 3.6;<14;-;TO-39;9.3 x 5.7;110 x 75;I2C
+Sensor array, 16 x 12;production;MLX90641KSF-BCB-000;-40 to 125;-40 to 300;;see datasheet;3.0 to 3.6;<14;-;TO-39;9.3 x 11.25;55 x 35;I2C
