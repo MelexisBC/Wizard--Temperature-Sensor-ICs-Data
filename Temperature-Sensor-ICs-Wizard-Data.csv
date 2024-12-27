@@ -1,4 +1,4 @@
-Type;Status;Part number;Ambient temperature;Object temperature;Specific features;Accuracy;Supply voltage;Supply current;Sleep current;Package;Package dimensions;Field of view;Output;Product page;Product page
+Type;Status;Part number;Ambient temperature;Object temperature;Specific features;Accuracy;Supply voltage;Supply current;Sleep current;Package;Package dimensions;Field of view;Output;Product page;Accuracy image
 Infrared single point;production;MLX90614KSF-AAA-000;-40 to 125;-70 to 380;;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;90;SMBus|PWM;https://www.melexis.com/MLX90614;
 Infrared dual points;production;MLX90614KSF-ABA-000;-40 to 125;-70 to 380;;standard;4.5 to 5.5;<2;<6;TO-39;9.1 x 4.1;120;SMBus|PWM;https://www.melexis.com/MLX90614;
 Infrared single point;production;MLX90614KSF-ACC-000;-40 to 125;-70 to 380;Gradient compensated;standard;4.5 to 5.5;<2;<6;TO-39;10.2 x 8,1;35;SMBus|PWM;https://www.melexis.com/MLX90614;
